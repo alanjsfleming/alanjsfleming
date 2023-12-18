@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">I am a second year BSc Computing Science Student at the University of Aberdeen</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanjsfleming&label=Profile%20views&color=0e75b6&style=flat" alt="alanjsfleming" /> </p>
-
 - 🔭 I’m currently working on [DashOwl](https://www.dashowl.co.uk)
 
 - 🌱 I’m currently learning **Java**
