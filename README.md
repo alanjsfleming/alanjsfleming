@@ -7,8 +7,6 @@
 
 - 🤝 I’m part of [University of Aberdeen Rocketry and Space Sciences Society](https://github.com/AberdeenRSS)
 
-- ⚡ Fun fact **I play guitar :)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alanjsfleming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alanjsfleming" height="30" width="40" /></a>
