@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alan</h1>
+<h1 align="center">Hi, I'm Alan</h1>
 <h3 align="center">I am a second year BSc Computing Science Student at the University of Aberdeen</h3>
 
 
