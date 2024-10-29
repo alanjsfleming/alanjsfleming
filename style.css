@@ -5,6 +5,17 @@
   font-family: 'Bricolage Grotesque', sans-serif;
 }
 
+a {
+  color:black;
+}
+
+.profile-content-section p {
+  line-height:1;
+  margin-top:0;
+  margin-bottom:0;
+  
+}
+
 .content-heading p {
   line-height: 1;
   padding-top:0;
@@ -70,6 +81,21 @@
   flex-direction:column;
 }
 
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.justify-content-around {
+  justify-content: space-around;
+}
+
  
-  
-   
+.content-card {
+  border-radius: 0.6rem; 
+  border: 1px solid var(--light); 
+  width: 30%;
+  padding: 0.5rem;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+}  
