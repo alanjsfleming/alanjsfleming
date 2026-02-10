@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 Software Engineer and Computing Science student at the University of Aberdeen, graduating 2026. Currently working as a programmer at the Centre for Healthcare Randomised Trials.
 
 - 🔭 I’m currently working on stereo vision based object sizing
-- 🌱 I’m currently learning Rails
+- 🌱 Learning Ruby on Rails
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -17,4 +17,4 @@ Software Engineer and Computing Science student at the University of Aberdeen, g
 - ⚡ Fun fact: ...
 -->
 
-**Tech:** Python · Django · C# · ASP.NET · Ruby on Rails · React · FastAPI · Vue.js · TypeScript · Flask · PostgreSQL
+**Tech:** Python · Django · C# · ASP.NET · React · FastAPI · Vue.js · TypeScript · Flask · PostgreSQL
