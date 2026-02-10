@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 Software Engineer and Computing Science student at the University of Aberdeen, graduating 2026. Currently working as a programmer at the Centre for Healthcare Randomised Trials.
 
-- 🔭 I’m currently working on stereo vision based object sizing
+- 🔭 Working on stereo vision based object sizing for my final year project
 - 🌱 Learning Ruby on Rails
 
 <!--
